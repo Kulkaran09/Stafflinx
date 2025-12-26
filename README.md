@@ -1,20 +1,33 @@
-# Base44 App
+# Stafflinx
 
+Stafflinx is an employment and staffing platform focused on providing reliable and professional cleaning staff for commercial, residential, and industrial workplaces.
 
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+The website is built using **Vite + React** and is designed to be fast, responsive, and easy to deploy on modern hosting platforms such as **Netlify**.
 
-## Running the app
+---
+
+## 🧹 What Stafflinx Does
+
+Stafflinx helps businesses:
+- Hire trained and reliable cleaning staff
+- Find workforce solutions for commercial and residential cleaning
+- Manage staffing needs efficiently
+- Connect employers with qualified cleaning professionals
+
+---
+
+## 🚀 Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript**
+- **HTML5 / CSS3**
+
+---
+
+## ▶️ Running the Project Locally
+
+Install dependencies:
 
 ```bash
 npm install
-npm run dev
-```
-
-## Building the app
-
-```bash
-npm run build
-```
-
-For more information and support, please contact Base44 support at app@base44.com.
