@@ -25,9 +25,9 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-6 text-white">Contact Us</h3>
             <div className="space-y-4 text-slate-400">
-              <a href="mailto:info@stafflinx.com" className="flex items-center gap-3 hover:text-cyan-400 transition-colors">
+              <a href="mailto:info@stafflinx.ca" className="flex items-center gap-3 hover:text-cyan-400 transition-colors">
                 <Mail className="w-5 h-5 text-cyan-400" />
-                info@stafflinx.com
+                info@stafflinx.ca
               </a>
               <a href="tel:+14389289996" className="flex items-center gap-3 hover:text-cyan-400 transition-colors">
                 <Phone className="w-5 h-5 text-cyan-400" />

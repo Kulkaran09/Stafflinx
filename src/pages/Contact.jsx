@@ -36,7 +36,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['info@stafflinx.com']
+      details: ['info@stafflinx.ca']
     },
     {
       icon: Phone,
